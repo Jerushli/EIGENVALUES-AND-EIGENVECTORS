@@ -22,7 +22,8 @@ End the program
 ## Program:
 
 
-
+DEVELOPED BY : JERUSHLIN JOSE J B 
+REG :212222240039
 
 ```
 import numpy as np
